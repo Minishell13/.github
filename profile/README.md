@@ -11,7 +11,7 @@ This organization splits the project into two main components to support clean d
 ### 🔧 Repositories
 
 #### 1. [Minishell Parsing](https://github.com/your-org/minishell-parsing)
-> **Owner:** _[Hamza Wahmane](https://github.com/Wahmane-Hamza)_  
+> **Owner:** _[Hamza Wahmane](https://github.com/Wahmane-Hamza)_
 This repository focuses on the **parsing logic**, including:
 - Lexical analysis and tokenization
 - Grammar parsing (AST generation)
@@ -21,7 +21,7 @@ This repository focuses on the **parsing logic**, including:
 - Syntax validation and error handling
 
 #### 2. [Minishell Execution](https://github.com/your-org/minishell-execution)
-> **Owner:** _[Abdellah Nsila]_  
+> **Owner:** _[Abdellah Nsila](https://github.com/Abdellah-Nsila)_
 This repository handles the **execution engine** of the shell. It is responsible for:
 - Variable expansion (`$VAR`, `$?`)
 - Process forking and `execve` calls
