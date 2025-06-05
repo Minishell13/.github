@@ -65,14 +65,14 @@ Each repository can be compiled separately, but to run the shell completely:
 - [x] Input/Output Redirections
 - [x] Heredoc (`<<`)
 - [x] Pipes (`|`)
-- [x] Subshells (`(cmd)`)
+- [ ] Subshells (`(cmd)`)
 - [x] Environment Variable Expansion
 - [x] Wildcard expansion (`*`) *(optional)*
-- [x] Signal handling refinement
-- [x] Exit code manipulation
+- [ ] Signal handling refinement
+- [ ] Exit code manipulation
 - [ ] Test complex commands
 - [x] Join Parsing with execution
-- [x] Error and memory management
+- [ ] Error and memory management
 - [ ] Optimize, clean up files and stream logic
 
 ---
