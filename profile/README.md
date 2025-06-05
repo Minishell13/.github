@@ -79,8 +79,8 @@ Each repository can be compiled separately, but to run the shell completely:
 
 ## 👥 Contributors
 
-- [Hamza Wahmane](https://github.com/teammate-profile) – Parsing Logic
-- [Abdellah Nsila](https://github.com/your-profile) – Execution Logic
+- [Hamza Wahmane](https://github.com/Wahmane-Hamza) – Parsing Logic
+- [Abdellah Nsila](https://github.com/Abdellah-Nsila) – Execution Logic
 
 ---
 
