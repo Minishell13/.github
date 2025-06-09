@@ -66,6 +66,7 @@ Each repository can be compiled separately, but to run the shell completely:
 - [ ] Heredoc (`<<`)
 - [x] Pipes (`|`)
 - [ ] Subshells (`(cmd)`)
+- [ ] Manage fds, filesm redirs (`(<, <<, >, >>)`)
 - [x] Environment Variable Expansion
 - [x] Wildcard expansion (`*`) *(optional)*
 - [ ] Signal handling refinement
