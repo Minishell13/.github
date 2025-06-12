@@ -62,15 +62,15 @@ Each repository can be compiled separately, but to run the shell completely:
 - [x] Tokenization and Parsing
 - [x] AST Generation
 - [x] Built-in Commands (`cd`, `echo`, `export`, etc.)
-- [ ] Input/Output Redirections
-- [ ] Heredoc (`<<`)
+- [x] Input/Output Redirections
+- [x] Heredoc (`<<`)
 - [x] Pipes (`|`)
-- [ ] Subshells (`(cmd)`)
-- [ ] Manage fds, filesm redirs (`(<, <<, >, >>)`)
+- [x] Subshells (`(cmd)`)
+- [x] Manage fds, filesm redirs (`(<, <<, >, >>)`)
 - [x] Environment Variable Expansion
 - [x] Wildcard expansion (`*`) *(optional)*
-- [ ] Signal handling refinement
-- [ ] Exit code manipulation
+- [x] Signal handling refinement
+- [x] Exit code manipulation
 - [ ] Test complex commands
 - [x] Join Parsing with execution
 - [ ] Error and memory management
