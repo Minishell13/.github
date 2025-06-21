@@ -72,10 +72,11 @@ Each repository can be compiled separately, but to run the shell completely:
 - [x] Wildcard expansion (`*`) *(optional)*
 - [x] Signal handling refinement
 - [x] Exit code manipulation
-- [ ] Test complex commands
+- [x] Test complex commands
 - [x] Join Parsing with execution
-- [ ] Error and memory management
-- [ ] Optimize, clean up files and stream logic
+- [x] Error and memory management
+- [x] Optimize, clean up files and stream logic
+- [x] Push 125/100 
 
 ---
 
